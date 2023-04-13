@@ -39,4 +39,4 @@ From data system documentation in _/data-sys-docs/_, fill in the following colum
 
 Unlike for the fish-data-comp-fields table, if codes appear in more than one table, don't duplicate them. Codes only need to be defined and included once because their parent table is already recorded in the `fish-data-comp-fields.xlsx` table.
 
-Once all of this information is compiled for a certain topic (such as species or location), then each data systems' fields and codes for that topic can be compared with the others. 
+Once all of this information is compiled for a certain topic (such as species or location), then each data systems' fields and codes for that topic can be compared with the others. Files created by topic could eventually be combined into one giant file of all data system fields and codes but for now, I would leave species, location, etc. separate.
