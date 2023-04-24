@@ -1,0 +1,29 @@
+﻿sourceDataSystem,code,sourceDataCode,sourceDataCodeDef,sourceDataField,notes
+CAP HLI,Resident,none,none,Run,Resident only appears in PTAGIS
+FMD,Resident,none,none,RunID,Resident only appears in PTAGIS
+PTAGIS,Resident,R,Resident,Run Codes,Resident only appears in PTAGIS
+RMIS,Resident,none,none,Run,Resident only appears in PTAGIS
+CAP HLI,Hybrid,none,none,Run,Hybrid only appears in RMIS
+FMD,Hybrid,none,none,RunID,Hybrid only appears in RMIS
+PTAGIS,Hybrid,none,none,Run Codes,Hybrid only appears in RMIS
+RMIS,Hybrid,5,Hybrid,Run,Hybrid only appears in RMIS
+CAP HLI,Landlocked,none,none,Run,Landlocked only appears in RMIS
+FMD,Landlocked,none,none,RunID,Landlocked only appears in RMIS
+PTAGIS,Landlocked,none,none,Run Codes,Landlocked only appears in RMIS
+RMIS,Landlocked,6,Landlocked,Run,Landlocked only appears in RMIS
+CAP HLI,Natural,Natural,Natural,RearingType,none
+FMD,Natural,2,Natural,ProdID,none
+PTAGIS,Natural,W,Wild Fish or Natural Production,Rear Type Codes,none
+RMIS,Natural,W,Wild fish,Rearing Type,none
+CAP HLI,Mixed,Mixed,Mixed,RearingType,none
+FMD,Mixed,3,Mixed,ProdID,none
+PTAGIS,Mixed,none,none,Rear Type Codes,none
+RMIS,Mixed,M,Mixed hatchery & wild (downstream migrant or marine tagging),Rearing Type,none
+CAP HLI,Unknown,Unknown,Unknown,RearingType,none
+FMD,Unknown,99,Unknown,ProdID,none
+PTAGIS,Unknown,U,Unknown,Rear Type Codes,none
+RMIS,Unknown,U,Unknown (unavailable from release agency),Rearing Type,none
+CAP HLI,Hatchery,none,none,RearingType,none
+FMD,Hatchery,1,Hatchery,ProdID,none
+PTAGIS,Hatchery,H,Hatchery Reared,Rear Type Codes,none
+RMIS,Hatchery,H,Hatchery reared fish (includes any portion of fish’s life history in hatchery or artificially enhanced environment),Rearing Type,none

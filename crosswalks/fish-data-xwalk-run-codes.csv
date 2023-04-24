@@ -1,0 +1,66 @@
+﻿sourceDataSystem,code,sourceDataCode,sourceDataCodeDef,sourceDataField,notes
+CAP HLI,Spring,Spring,Spring,Run,none
+FMD,Spring,1,Spring,RunID,none
+PTAGIS,Spring,1,Spring,Run Codes,none
+RMIS,Spring,1,Spring,Run,none
+CAP HLI,Summer,Summer,Summer,Run,none
+FMD,Summer,2,Summer,RunID,none
+PTAGIS,Summer,2,Summer,Run Codes,none
+RMIS,Summer,2,Summer,Run,none
+CAP HLI,Fall,Fall,Fall,Run,none
+FMD,Fall,3,Fall,RunID,none
+PTAGIS,Fall,3,Fall,Run Codes,none
+RMIS,Fall,3,Fall (includes type S Coho),Run,none
+CAP HLI,Winter,Winter,Winter,Run,none
+FMD,Winter,4,Winter,RunID,none
+PTAGIS,Winter,4,Winter,Run Codes,none
+RMIS,Winter,4,Winter,Run,none
+CAP HLI,Late fall,Late fall,Late fall,Run,none
+FMD,Late fall,20,Late fall,RunID,none
+PTAGIS,Late fall,none,none,Run Codes,none
+RMIS,Late fall,7,Late Fall (includes N type Coho),Run,none
+RMIS,Late fall,8,Late Fall Upriver Bright Chinook,Run,none
+CAP HLI,Spring/summer,Spring/summer,Spring/summer,Run,none
+FMD,Spring/summer,17,Spring/summer,RunID,none
+PTAGIS,Spring/summer,none,none,Run Codes,none
+RMIS,Spring/summer,none,none,Run,none
+CAP HLI,N/A,N/A (for species without recognized runs),N/A (for species without recognized runs),Run,none
+FMD,N/A,98,N/A,RunID,none
+PTAGIS,N/A,0,N/A,Run Codes,none
+RMIS,N/A,none,none,Run,none
+CAP HLI,Unknown,none,none,Run,none
+FMD,Unknown,99,Unknown,RunID,none
+PTAGIS,Unknown,5,Unknown,Run Codes,none
+RMIS,Unknown,none,none,Run,none
+CAP HLI,Both summer & winter,Both summer & winter,Both summer & winter,Run,none
+FMD,Both summer & winter,18,Both summer & winter,RunID,none
+PTAGIS,Both summer & winter,none,none,Run Codes,none
+RMIS,Both summer & winter,none,none,Run,none
+CAP HLI,Early,Early,Early,Run,none
+FMD,Early,21,Early,RunID,none
+PTAGIS,Early,none,none,Run Codes,none
+RMIS,Early,none,none,Run,none
+CAP HLI,Late,Late,Late,Run,none
+FMD,Late,19,Late,RunID,none
+PTAGIS,Late,none,none,Run Codes,none
+RMIS,Late,none,none,Run,none
+CAP HLI,Both early & late,Both early & late,Both early & late,Run,none
+FMD,Both early & late,22,Both early & late,RunID,none
+PTAGIS,Both early & late,none,none,Run Codes,none
+RMIS,Both early & late,none,none,Run,none
+CAP HLI,Odd year pink,none,none,Run,Odd year pink only appears in FMD
+FMD,Odd year pink,12,Odd year pink,RunID,Odd year pink only appears in FMD
+PTAGIS,Odd year pink,none,none,Run Codes,Odd year pink only appears in FMD
+RMIS,Odd year pink,none,none,Run,Odd year pink only appears in FMD
+CAP HLI,Even year pink,none,none,Run,Even year pink only occurs in FMD
+FMD,Even year pink,13,Even year pink,RunID,Even year pink only occurs in FMD
+PTAGIS,Even year pink,none,none,Run Codes,Even year pink only occurs in FMD
+RMIS,Even year pink,none,none,Run,Even year pink only occurs in FMD
+CAP HLI,Mixed,none,none,Run,Mixed only appears in FMD
+FMD,Mixed,16,Mixed,RunID,Mixed only appears in FMD
+PTAGIS,Mixed,none,none,Run Codes,Mixed only appears in FMD
+RMIS,Mixed,none,none,Run,Mixed only appears in FMD
+CAP HLI,Summer/fall,none,none,Run,Summer/fall only appears in FMD
+FMD,Summer/fall,23,Summer/fall,RunID,Summer/fall only appears in FMD
+PTAGIS,Summer/fall,none,none,Run Codes,Summer/fall only appears in FMD
+RMIS,Summer/fall,none,none,Run,Summer/fall only appears in FMD

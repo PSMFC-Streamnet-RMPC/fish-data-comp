@@ -1,0 +1,376 @@
+﻿sourceDataSystem,code,sourceDataCode,sourceDataCodeDef,sourceDataField,notes
+CAP HLI,Bull Trout,Bull Trout,Bull Trout,CommonName,
+FMD,Bull Trout,14,Bull Trout,SpecieID,
+PTAGIS,Bull Trout,7,Bull Trout,Species Codes,
+RMIS,Bull Trout,None,None,species,
+CAP HLI,Chinook salmon,Chinook salmon,Chinook salmon,CommonName,
+FMD,Chinook salmon,1,Chinook salmon,SpecieID,
+PTAGIS,Chinook salmon,1,Chinook,Species Codes,
+RMIS,Chinook salmon,1,Chinook,species,
+CAP HLI,Chum salmon,Chum salmon,Chum salmon,CommonName,
+FMD,Chum salmon,5,Chum salmon,SpecieID,
+PTAGIS,Chum salmon,5,Chum,Species Codes,
+RMIS,Chum salmon,5,Chum,species,
+CAP HLI,Coho salmon,Coho salmon,Coho salmon,CommonName,
+FMD,Coho salmon,2,Coho salmon,SpecieID,
+PTAGIS,Coho salmon,2,Coho,Species Codes,
+RMIS,Coho salmon,2,Coho,species,
+CAP HLI,Sockeye salmon,Sockeye salmon,Sockeye salmon,CommonName,
+FMD,Sockeye salmon,4,Sockeye salmon,SpecieID,
+PTAGIS,Sockeye salmon,4,Sockeye salmon,Species Codes,
+RMIS,Sockeye salmon,4,Sockeye,species,
+CAP HLI,Steelhead,Steelhead,Steelhead,CommonName,
+FMD,Steelhead,3,Steelhead,SpecieID,
+PTAGIS,Steelhead,3,Steelhead,Species Codes,
+RMIS,Steelhead,3,Steelhead,species,
+CAP HLI,Unknown,None,None,CommonName,
+FMD,Unknown,99,Unknown,SpecieID,
+PTAGIS,Unknown,0,Unknown,Species Codes,
+RMIS,Unknown,None,None,species,
+CAP HLI,Pink salmon,None,None,CommonName,
+FMD,Pink salmon,6,Pink salmon,SpecieID,
+PTAGIS,Pink salmon,6,Pink,Species Codes,
+RMIS,Pink salmon,6,Pink,species,
+CAP HLI,Cutthroat trout,None,None,CommonName,
+FMD,Cutthroat trout,8,Cutthroat trout,SpecieID,
+PTAGIS,Cutthroat trout,8,Cutthroat trout,Species Codes,
+RMIS,Cutthroat trout,8,Cutthroat,species,
+CAP HLI,Masu,None,None,CommonName,
+FMD,Masu,7,Masu (cherry) salmon,SpecieID,I assume Masu (cherry) salmon = Masu ?
+PTAGIS,Masu,None,None,Species Codes,
+RMIS,Masu,7,Masu,species,
+CAP HLI,Atlantic salmon,None,None,CommonName,
+FMD,Atlantic salmon,13,Atlantic salmon,SpecieID,
+PTAGIS,Atlantic salmon,None,None,Species Codes,
+RMIS,Atlantic salmon,9,Atlantic salmon,species,
+CAP HLI,Pacific Lamprey,None,None,CommonName,
+FMD,Pacific Lamprey,122,Pacific Lamprey,SpecieID,
+PTAGIS,Pacific Lamprey,A,Pacific Lamprey,Species Codes,
+RMIS,Pacific Lamprey,None,None,species,
+CAP HLI,White sturgeon,None,None,CommonName,
+FMD,White sturgeon,12,White sturgeon,SpecieID,
+PTAGIS,White sturgeon,B,White sturgeon,Species Codes,
+RMIS,White sturgeon,None,None,species,
+CAP HLI,Green sturgeon,None,None,CommonName,
+FMD,Green sturgeon,44,Green sturgeon,SpecieID,
+PTAGIS,Green sturgeon,C,Green sturgeon,Species Codes,
+RMIS,Green sturgeon,None,None,species,
+CAP HLI,Northern Pikeminnow,None,None,CommonName,
+FMD,Northern Pikeminnow,42,Northern Pikeminnow,SpecieID,
+PTAGIS,Northern Pikeminnow,D,Northern Pikeminnow,Species Codes,
+RMIS,Northern Pikeminnow,None,None,species,
+CAP HLI,Brook Trout,None,None,CommonName,
+FMD,Brook Trout,11,Brook Trout,SpecieID,
+PTAGIS,Brook Trout,E,Brook Trout,Species Codes,
+RMIS,Brook Trout,None,None,species,
+CAP HLI,American Shad,None,None,CommonName,
+FMD,American Shad,53,American Shad,SpecieID,
+PTAGIS,American Shad,F,American Shad,Species Codes,
+RMIS,American Shad,None,None,species,
+CAP HLI,Mountain Whitefish,None,None,CommonName,
+FMD,Mountain Whitefish,27,Mountain whitefish,SpecieID,
+PTAGIS,Mountain Whitefish,G,Mountain Whitefish,Species Codes,
+RMIS,Mountain Whitefish,None,None,species,
+CAP HLI,Walleye,None,None,CommonName,
+FMD,Walleye,25,Walleye,SpecieID,
+PTAGIS,Walleye,H,Walleye,Species Codes,
+RMIS,Walleye,None,None,species,
+CAP HLI,Channel Catfish,None,None,CommonName,
+FMD,Channel Catfish,49,Channel catfish,SpecieID,
+PTAGIS,Channel Catfish,I,Channel Catfish,Species Codes,
+RMIS,Channel Catfish,None,None,species,
+CAP HLI,Smallmouth Bass,None,None,CommonName,
+FMD,Smallmouth Bass,50,Smallmouth bass,SpecieID,
+PTAGIS,Smallmouth Bass,J,Smallmouth Bass,Species Codes,
+RMIS,Smallmouth Bass,None,None,species,
+CAP HLI,Western Brook Lamprey,None,None,CommonName,
+FMD,Western Brook Lamprey,120,Western brook lamprey,SpecieID,
+PTAGIS,Western Brook Lamprey,K,Western Brook Lamprey,Species Codes,
+RMIS,Western Brook Lamprey,None,None,species,
+CAP HLI,Lamprey (species unknown),None,None,CommonName,
+FMD,Lamprey (species unknown),113,Lamprey (unspecified),SpecieID,I guess Lamprey (unspecified) = Lampey (species unknown)? But maybe not
+FMD,Lamprey (species unknown),15,Lamprey (CODE DISCONTINUED),SpecieID,
+PTAGIS,Lamprey (species unknown),L,Lamprey (species unknown),Species Codes,
+RMIS,Lamprey (species unknown),None,None,species,
+CAP HLI,Other,None,None,CommonName,
+FMD,Other,125,Other,SpecieID,
+PTAGIS,Other,9,Other,Species Codes,
+RMIS,Other,None,None,species,
+FMD,Alvord chub,142,Alvord chub,SpecieID,only found in FMD no other data system
+FMD,Amphibians,126,Amphibians,SpecieID,only found in FMD no other data system
+FMD,Amur goby,172,Amur goby,SpecieID,only found in FMD no other data system
+FMD,Annelids,1002,Annelids,SpecieID,only found in FMD no other data system
+FMD,Arctic char,202,Arctic char,SpecieID,only found in FMD no other data system
+FMD,Arctic cisco,244,Arctic cisco,SpecieID,only found in FMD no other data system
+FMD,Arctic grayling,24,Arctic grayling,SpecieID,only found in FMD no other data system
+FMD,Arctic lamprey,123,Arctic lamprey,SpecieID,only found in FMD no other data system
+FMD,Arrow goby,220,Arrow goby,SpecieID,only found in FMD no other data system
+FMD,Arroyo chub,166,Arroyo chub,SpecieID,only found in FMD no other data system
+FMD,Arthropods,1003,Arthropods,SpecieID,only found in FMD no other data system
+FMD,Aspen leaf miner,1010,Aspen leaf miner,SpecieID,only found in FMD no other data system
+FMD,Banded killifish,215,Banded killifish,SpecieID,only found in FMD no other data system
+FMD,Bear Lake cutthroat trout,247,Bear Lake cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,Bear Lake sculpin,268,Bear Lake sculpin,SpecieID,only found in FMD no other data system
+FMD,Bear lake whitefish,250,Bear lake whitefish,SpecieID,only found in FMD no other data system
+FMD,Bigmouth buffalo,181,Bigmouth buffalo,SpecieID,only found in FMD no other data system
+FMD,Birds,128,Birds,SpecieID,only found in FMD no other data system
+FMD,Black bass,79,Black bass,SpecieID,only found in FMD no other data system
+FMD,Black bullhead,72,Black bullhead,SpecieID,only found in FMD no other data system
+FMD,Black crappie,48,Black crappie,SpecieID,only found in FMD no other data system
+FMD,Blackside speckled dace;  Coastal speckled dace,204,Blackside speckled dace;  Coastal speckled dace,SpecieID,only found in FMD no other data system
+FMD,Blue chub,185,Blue chub,SpecieID,only found in FMD no other data system
+FMD,Blue sucker,28,Blue sucker,SpecieID,only found in FMD no other data system
+FMD,Blueback trout;  Sunapee trout,254,Blueback trout;  Sunapee trout,SpecieID,only found in FMD no other data system
+FMD,Bluegill,51,Bluegill,SpecieID,only found in FMD no other data system
+FMD,Bonneville cisco,252,Bonneville cisco,SpecieID,only found in FMD no other data system
+FMD,Bonneville cutthroat trout,18,Bonneville cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,Bonneville redside shiner,207,Bonneville redside shiner,SpecieID,only found in FMD no other data system
+FMD,Bonneville whitefish,253,Bonneville whitefish,SpecieID,only found in FMD no other data system
+FMD,Borax Lake chub,148,Borax Lake chub,SpecieID,only found in FMD no other data system
+FMD,Boreal chorus frog,277,Boreal chorus frog,SpecieID,only found in FMD no other data system
+FMD,Brassy minnow,187,Brassy minnow,SpecieID,only found in FMD no other data system
+FMD,Bridgelip sucker,59,Bridgelip sucker,SpecieID,only found in FMD no other data system
+FMD,Broad whitefish,245,Broad whitefish,SpecieID,only found in FMD no other data system
+FMD,Brook stickleback,218,Brook stickleback,SpecieID,only found in FMD no other data system
+FMD,Brown bullhead,71,Brown bullhead,SpecieID,only found in FMD no other data system
+FMD,Brown trout,10,Brown trout,SpecieID,only found in FMD no other data system
+FMD,Bull trout X Brook trout hybrid,255,Bull trout X Brook trout hybrid,SpecieID,only found in FMD no other data system
+FMD,Burbot,69,Burbot,SpecieID,only found in FMD no other data system
+FMD,California red-legged frog,159,California red-legged frog,SpecieID,only found in FMD no other data system
+FMD,California roach,89,California roach,SpecieID,only found in FMD no other data system
+FMD,Catlow tui chub,146,Catlow tui chub,SpecieID,only found in FMD no other data system
+FMD,Central mudminnow,213,Central mudminnow,SpecieID,only found in FMD no other data system
+FMD,Chiselmouth,43,Chiselmouth,SpecieID,only found in FMD no other data system
+FMD,Cisco;  Lake herring,243,Cisco;  Lake herring,SpecieID,only found in FMD no other data system
+FMD,Clear Lake tule perch,169,Clear Lake tule perch,SpecieID,only found in FMD no other data system
+FMD,Cnidarians,1004,Cnidarians,SpecieID,only found in FMD no other data system
+FMD,Coastal cutthroat trout,17,Coastal cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,Coastal largescale sucker,258,Coastal largescale sucker,SpecieID,only found in FMD no other data system
+FMD,Coastal rainbow trout;  Steelhead,248,Coastal rainbow trout;  Steelhead,SpecieID,only found in FMD no other data system
+FMD,Coastal redside shiner,209,Coastal redside shiner,SpecieID,only found in FMD no other data system
+FMD,Coastal tailed frog,108,Coastal tailed frog,SpecieID,only found in FMD no other data system
+FMD,Coastrange sculpin,266,Coastrange sculpin,SpecieID,only found in FMD no other data system
+FMD,Coeur d'Alene salamander,279,Coeur d'Alene salamander,SpecieID,only found in FMD no other data system
+FMD,Colorado River cutthroat trout,155,Colorado River cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,Columbia sculpin,271,Columbia sculpin,SpecieID,only found in FMD no other data system
+FMD,Columbia spotted frog,282,Columbia spotted frog,SpecieID,only found in FMD no other data system
+FMD,Common carp,41,Common carp,SpecieID,only found in FMD no other data system
+FMD,Convict cichlid,262,Convict cichlid,SpecieID,only found in FMD no other data system
+FMD,Crappie,77,Crappie,SpecieID,only found in FMD no other data system
+FMD,Crayfish,158,Crayfish,SpecieID,only found in FMD no other data system
+FMD,Creek chub,211,Creek chub,SpecieID,only found in FMD no other data system
+FMD,Crustaceans,1005,Crustaceans,SpecieID,only found in FMD no other data system
+FMD,Delta smelt,161,Delta smelt,SpecieID,only found in FMD no other data system
+FMD,Dolly Varden,201,Dolly Varden,SpecieID,only found in FMD no other data system
+FMD,Dolly Varden/Arctic char,16,Dolly Varden/Arctic char,SpecieID,only found in FMD no other data system
+FMD,Eastern mosquitofish,234,Eastern mosquitofish,SpecieID,only found in FMD no other data system
+FMD,Emerald shiner,191,Emerald shiner,SpecieID,only found in FMD no other data system
+FMD,Eulachon,105,Eulachon,SpecieID,only found in FMD no other data system
+FMD,Fathead minnow,92,Fathead minnow,SpecieID,only found in FMD no other data system
+FMD,Finescale dace,32,Finescale dace,SpecieID,only found in FMD no other data system
+FMD,Fishes,99,Fishes,SpecieID,only found in FMD no other data system
+FMD,Flathead catfish,74,Flathead catfish,SpecieID,only found in FMD no other data system
+FMD,Flathead chub,196,Flathead chub,SpecieID,only found in FMD no other data system
+FMD,Flatworms,1011,Flatworms,SpecieID,only found in FMD no other data system
+FMD,Foskett speckled dace,205,Foskett speckled dace,SpecieID,only found in FMD no other data system
+FMD,Freshwater drum,257,Freshwater drum,SpecieID,only found in FMD no other data system
+FMD,Freshwater mussels,1001,Freshwater mussels,SpecieID,only found in FMD no other data system
+FMD,Golden shiner,190,Golden shiner,SpecieID,only found in FMD no other data system
+FMD,Golden trout,45,Golden trout,SpecieID,only found in FMD no other data system
+FMD,Goldeye,221,Goldeye,SpecieID,only found in FMD no other data system
+FMD,Goldfish,91,Goldfish,SpecieID,only found in FMD no other data system
+FMD,Goose Lake lamprey,149,Goose Lake lamprey,SpecieID,only found in FMD no other data system
+FMD,Goose Lake sucker,131,Goose Lake sucker,SpecieID,only found in FMD no other data system
+FMD,Grass carp,104,Grass carp,SpecieID,only found in FMD no other data system
+FMD,Grass pickerel,214,Grass pickerel,SpecieID,only found in FMD no other data system
+FMD,Great Basin spadefoot,283,Great Basin spadefoot,SpecieID,only found in FMD no other data system
+FMD,Green sunfish,109,Green sunfish,SpecieID,only found in FMD no other data system
+FMD,Green swordtail,239,Green swordtail,SpecieID,only found in FMD no other data system
+FMD,Guppy,237,Guppy,SpecieID,only found in FMD no other data system
+FMD,Horsehair worms,1009,Horsehair worms,SpecieID,only found in FMD no other data system
+FMD,Hotspring redside shiner,210,Hotspring redside shiner,SpecieID,only found in FMD no other data system
+FMD,Hutton tui chub,145,Hutton tui chub,SpecieID,only found in FMD no other data system
+FMD,Idaho giant salamander,275,Idaho giant salamander,SpecieID,only found in FMD no other data system
+FMD,Inconnu,256,Inconnu,SpecieID,only found in FMD no other data system
+FMD,Insects,1006,Insects,SpecieID,only found in FMD no other data system
+FMD,Iowa darter,227,Iowa darter,SpecieID,only found in FMD no other data system
+FMD,Klamath Lake lamprey,230,Klamath Lake lamprey,SpecieID,only found in FMD no other data system
+FMD,Klamath Lake sculpin,139,Klamath Lake sculpin,SpecieID,only found in FMD no other data system
+FMD,Klamath largescale sucker,132,Klamath largescale sucker,SpecieID,only found in FMD no other data system
+FMD,Klamath River lamprey,121,Klamath River lamprey,SpecieID,only found in FMD no other data system
+FMD,Klamath smallscale sucker,110,Klamath smallscale sucker,SpecieID,only found in FMD no other data system
+FMD,Klamath speckled dace,203,Klamath speckled dace,SpecieID,only found in FMD no other data system
+FMD,Kokanee,66,Kokanee,SpecieID,only found in FMD no other data system
+FMD,Lahontan cutthroat trout,20,Lahontan cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,Lahontan redside,208,Lahontan redside,SpecieID,only found in FMD no other data system
+FMD,Lake chub,75,Lake chub,SpecieID,only found in FMD no other data system
+FMD,Lake trout,56,Lake trout,SpecieID,only found in FMD no other data system
+FMD,Lake whitefish,58,Lake whitefish,SpecieID,only found in FMD no other data system
+FMD,Lampreys,113,Lampreys,SpecieID,only found in FMD no other data system
+FMD,Largemouth bass,47,Largemouth bass,SpecieID,only found in FMD no other data system
+FMD,Largescale sucker,60,Largescale sucker,SpecieID,only found in FMD no other data system
+FMD,Least cisco,246,Least cisco,SpecieID,only found in FMD no other data system
+FMD,Leopard dace,200,Leopard dace,SpecieID,only found in FMD no other data system
+FMD,Longfin smelt,162,Longfin smelt,SpecieID,only found in FMD no other data system
+FMD,Longnose dace,61,Longnose dace,SpecieID,only found in FMD no other data system
+FMD,Longnose sucker,67,Longnose sucker,SpecieID,only found in FMD no other data system
+FMD,Lost River sucker,141,Lost River sucker,SpecieID,only found in FMD no other data system
+FMD,Macroinvertebrates,1000,Macroinvertebrates,SpecieID,only found in FMD no other data system
+FMD,Malheur sculpin,136,Malheur sculpin,SpecieID,only found in FMD no other data system
+FMD,Mammals,129,Mammals,SpecieID,only found in FMD no other data system
+FMD,Marbled sculpin,272,Marbled sculpin,SpecieID,only found in FMD no other data system
+FMD,Margined sculpin,137,Margined sculpin,SpecieID,only found in FMD no other data system
+FMD,Mexican molly;  Black molly;  Liberty molly,238,Mexican molly;  Black molly;  Liberty molly,SpecieID,only found in FMD no other data system
+FMD,Miller Lake lamprey,118,Miller Lake lamprey,SpecieID,only found in FMD no other data system
+FMD,Millicoma dace,199,Millicoma dace,SpecieID,only found in FMD no other data system
+FMD,Miscellaneous freshwater species,55,Miscellaneous freshwater species,SpecieID,only found in FMD no other data system
+FMD,Miscellaneous marine species,54,Miscellaneous marine species,SpecieID,only found in FMD no other data system
+FMD,Mixed anadromous salmonids,96,Mixed anadromous salmonids,SpecieID,only found in FMD no other data system
+FMD,Mixed lamprey,94,Mixed lamprey,SpecieID,only found in FMD no other data system
+FMD,Mixed resident salmonids,95,Mixed resident salmonids,SpecieID,only found in FMD no other data system
+FMD,Mixed salmon,39,Mixed salmon,SpecieID,only found in FMD no other data system
+FMD,Modoc sucker,130,Modoc sucker,SpecieID,only found in FMD no other data system
+FMD,Molluscs,1007,Molluscs,SpecieID,only found in FMD no other data system
+FMD,Mottled sculpin,154,Mottled sculpin,SpecieID,only found in FMD no other data system
+FMD,Mountain sucker,38,Mountain sucker,SpecieID,only found in FMD no other data system
+FMD,Mozambique tilapia,263,Mozambique tilapia,SpecieID,only found in FMD no other data system
+FMD,Muskellunge,84,Muskellunge,SpecieID,only found in FMD no other data system
+FMD,N/A,98,N/A,SpecieID,only found in FMD no other data system
+FMD,N/A (not applicable),98,N/A (not applicable),SpecieID,only found in FMD no other data system
+FMD,Nematodes,1008,Nematodes,SpecieID,only found in FMD no other data system
+FMD,Ninespine stickleback,219,Ninespine stickleback,SpecieID,only found in FMD no other data system
+FMD,Northern California brook lamprey,115,Northern California brook lamprey,SpecieID,only found in FMD no other data system
+FMD,Northern leatherside chub,189,Northern leatherside chub,SpecieID,only found in FMD no other data system
+FMD,Northern leopard frog,280,Northern leopard frog,SpecieID,only found in FMD no other data system
+FMD,Northern pearl dace,31,Northern pearl dace,SpecieID,only found in FMD no other data system
+FMD,Northern pike,26,Northern pike,SpecieID,only found in FMD no other data system
+FMD,Northern redbelly dace,194,Northern redbelly dace,SpecieID,only found in FMD no other data system
+FMD,Northern redbelly dace X Finescale dace hybrid,195,Northern redbelly dace X Finescale dace hybrid,SpecieID,only found in FMD no other data system
+FMD,Not specified,93,Not specified,SpecieID,only found in FMD no other data system
+FMD,Olympic mudminnow,212,Olympic mudminnow,SpecieID,only found in FMD no other data system
+FMD,Oregon chub,151,Oregon chub,SpecieID,only found in FMD no other data system
+FMD,Oregon closed basin redband trout,249,Oregon closed basin redband trout,SpecieID,only found in FMD no other data system
+FMD,Oregon lakes tui chub,144,Oregon lakes tui chub,SpecieID,only found in FMD no other data system
+FMD,Oriental weatherfish,183,Oriental weatherfish,SpecieID,only found in FMD no other data system
+FMD,Pacific brook lamprey,119,Pacific brook lamprey,SpecieID,only found in FMD no other data system
+FMD,Pacific chorus frog,278,Pacific chorus frog,SpecieID,only found in FMD no other data system
+FMD,Pacific giant salamander,107,Pacific giant salamander,SpecieID,only found in FMD no other data system
+FMD,Pacific herring,175,Pacific herring,SpecieID,only found in FMD no other data system
+FMD,Pacific staghorn sculpin,273,Pacific staghorn sculpin,SpecieID,only found in FMD no other data system
+FMD,Paddlefish,29,Paddlefish,SpecieID,only found in FMD no other data system
+FMD,Paiute sculpin,267,Paiute sculpin,SpecieID,only found in FMD no other data system
+FMD,Pallid sturgeon,30,Pallid sturgeon,SpecieID,only found in FMD no other data system
+FMD,Peamouth,70,Peamouth,SpecieID,only found in FMD no other data system
+FMD,Penpoint gunnel,231,Penpoint gunnel,SpecieID,only found in FMD no other data system
+FMD,Pit roach,150,Pit roach,SpecieID,only found in FMD no other data system
+FMD,Pit sculpin,138,Pit sculpin,SpecieID,only found in FMD no other data system
+FMD,Pit-Klamath brook lamprey,116,Pit-Klamath brook lamprey,SpecieID,only found in FMD no other data system
+FMD,Plains killifish,216,Plains killifish,SpecieID,only found in FMD no other data system
+FMD,Plains minnow,188,Plains minnow,SpecieID,only found in FMD no other data system
+FMD,Platy species,241,Platy species,SpecieID,only found in FMD no other data system
+FMD,Prickly sculpin,103,Prickly sculpin,SpecieID,only found in FMD no other data system
+FMD,Pumpkinseed,57,Pumpkinseed,SpecieID,only found in FMD no other data system
+FMD,Pygmy whitefish,78,Pygmy whitefish,SpecieID,only found in FMD no other data system
+FMD,Rainbow smelt,226,Rainbow smelt,SpecieID,only found in FMD no other data system
+FMD,Rainbow Smelts,106,Rainbow Smelts,SpecieID,only found in FMD no other data system
+FMD,Rainbow trout,9,Rainbow trout,SpecieID,only found in FMD no other data system
+FMD,Rainbow trout X Cutthroat trout hybrid,40,Rainbow trout X Cutthroat trout hybrid,SpecieID,only found in FMD no other data system
+FMD,Rainbow/redband/steel head trout,111,Rainbow/redband/steel head trout,SpecieID,only found in FMD no other data system
+FMD,Rainwater killfish,217,Rainwater killfish,SpecieID,only found in FMD no other data system
+FMD,Redband trout,23,Redband trout,SpecieID,only found in FMD no other data system
+FMD,Redbelly tilapia;  Zill's tilapia,264,Redbelly tilapia;  Zill's tilapia,SpecieID,only found in FMD no other data system
+FMD,Redear sunfish,157,Redear sunfish,SpecieID,only found in FMD no other data system
+FMD,Redside shiner,63,Redside shiner,SpecieID,only found in FMD no other data system
+FMD,Redside shiner,285,Redside shiner,SpecieID,only found in FMD no other data system
+FMD,Reptiles,127,Reptiles,SpecieID,only found in FMD no other data system
+FMD,Reticulate sculpin,102,Reticulate sculpin,SpecieID,only found in FMD no other data system
+FMD,Riffle sculpin,270,Riffle sculpin,SpecieID,only found in FMD no other data system
+FMD,River carpsucker,176,River carpsucker,SpecieID,only found in FMD no other data system
+FMD,Rock bass,260,Rock bass,SpecieID,only found in FMD no other data system
+FMD,Rogue smallscale sucker,179,Rogue smallscale sucker,SpecieID,only found in FMD no other data system
+FMD,Round whitefish,251,Round whitefish,SpecieID,only found in FMD no other data system
+FMD,Russian River tule perch,168,Russian River tule perch,SpecieID,only found in FMD no other data system
+FMD,Sacramento blackfish,171,Sacramento blackfish,SpecieID,only found in FMD no other data system
+FMD,Sacramento perch,261,Sacramento perch,SpecieID,only found in FMD no other data system
+FMD,Sacramento pikeminnow,90,Sacramento pikeminnow,SpecieID,only found in FMD no other data system
+FMD,Sacramento sucker,88,Sacramento sucker,SpecieID,only found in FMD no other data system
+FMD,Sacramento-San Joaquin tule perch,170,Sacramento-San Joaquin tule perch,SpecieID,only found in FMD no other data system
+FMD,Saddleback gunnel,232,Saddleback gunnel,SpecieID,only found in FMD no other data system
+FMD,Sailfin molly,235,Sailfin molly,SpecieID,only found in FMD no other data system
+FMD,Salmonids,124,Salmonids,SpecieID,only found in FMD no other data system
+FMD,Sand roller,64,Sand roller,SpecieID,only found in FMD no other data system
+FMD,Sand shiner,193,Sand shiner,SpecieID,only found in FMD no other data system
+FMD,Sauger,228,Sauger,SpecieID,only found in FMD no other data system
+FMD,Sculpins,46,Sculpins,SpecieID,only found in FMD no other data system
+FMD,Sharpnose sculpin,265,Sharpnose sculpin,SpecieID,only found in FMD no other data system
+FMD,Sheldon tui chub,143,Sheldon tui chub,SpecieID,only found in FMD no other data system
+FMD,Shiner perch,165,Shiner perch,SpecieID,only found in FMD no other data system
+FMD,Shortfin molly,236,Shortfin molly,SpecieID,only found in FMD no other data system
+FMD,Shorthead redhorse,182,Shorthead redhorse,SpecieID,only found in FMD no other data system
+FMD,Shorthead sculpin,33,Shorthead sculpin,SpecieID,only found in FMD no other data system
+FMD,Shortnose gar,34,Shortnose gar,SpecieID,only found in FMD no other data system
+FMD,Shortnose sucker,135,Shortnose sucker,SpecieID,only found in FMD no other data system
+FMD,Shoshone sculpin,269,Shoshone sculpin,SpecieID,only found in FMD no other data system
+FMD,Shovelnose sturgeon,174,Shovelnose sturgeon,SpecieID,only found in FMD no other data system
+FMD,Sicklefin chub,35,Sicklefin chub,SpecieID,only found in FMD no other data system
+FMD,Siuslaw pikeminnow,197,Siuslaw pikeminnow,SpecieID,only found in FMD no other data system
+FMD,Slender sculpin,140,Slender sculpin,SpecieID,only found in FMD no other data system
+FMD,Slimy sculpin,87,Slimy sculpin,SpecieID,only found in FMD no other data system
+FMD,Smallmouth buffalo,180,Smallmouth buffalo,SpecieID,only found in FMD no other data system
+FMD,Snake River fine-spotted cutthroat trout,19,Snake River fine-spotted cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,Southern platyfish;  Platy,240,Southern platyfish;  Platy,SpecieID,only found in FMD no other data system
+FMD,Speckled dace,65,Speckled dace,SpecieID,only found in FMD no other data system
+FMD,Speckled dace,284,Speckled dace,SpecieID,only found in FMD no other data system
+FMD,Splittail (Sacramento splittail),164,Splittail (Sacramento splittail),SpecieID,only found in FMD no other data system
+FMD,Sponges,1012,Sponges,SpecieID,only found in FMD no other data system
+FMD,Spoonhead sculpin,36,Spoonhead sculpin,SpecieID,only found in FMD no other data system
+FMD,Spottail shiner,192,Spottail shiner,SpecieID,only found in FMD no other data system
+FMD,Starry flounder,233,Starry flounder,SpecieID,only found in FMD no other data system
+FMD,Stonecat,222,Stonecat,SpecieID,only found in FMD no other data system
+FMD,Striped bass,80,Striped bass,SpecieID,only found in FMD no other data system
+FMD,Sturgeon chub,37,Sturgeon chub,SpecieID,only found in FMD no other data system
+FMD,Summer Basin tui chub,147,Summer Basin tui chub,SpecieID,only found in FMD no other data system
+FMD,Surf smelt,225,Surf smelt,SpecieID,only found in FMD no other data system
+FMD,Tadpole madtom,223,Tadpole madtom,SpecieID,only found in FMD no other data system
+FMD,Tahoe sucker,133,Tahoe sucker,SpecieID,only found in FMD no other data system
+FMD,Tench,68,Tench,SpecieID,only found in FMD no other data system
+FMD,Threespine stickleback,76,Threespine stickleback,SpecieID,only found in FMD no other data system
+FMD,Threespine stickleback,286,Threespine stickleback,SpecieID,only found in FMD no other data system
+FMD,Threespine stickleback,287,Threespine stickleback,SpecieID,only found in FMD no other data system
+FMD,Tidewater goby,160,Tidewater goby,SpecieID,only found in FMD no other data system
+FMD,Tiger muskellunge,85,Tiger muskellunge,SpecieID,only found in FMD no other data system
+FMD,Tiger salamander,274,Tiger salamander,SpecieID,only found in FMD no other data system
+FMD,Topsmelt,163,Topsmelt,SpecieID,only found in FMD no other data system
+FMD,Torrent sculpin,86,Torrent sculpin,SpecieID,only found in FMD no other data system
+FMD,Trout-perch,229,Trout-perch,SpecieID,only found in FMD no other data system
+FMD,Tui chub,259,Tui chub,SpecieID,only found in FMD no other data system
+FMD,Tule perch,167,Tule perch,SpecieID,only found in FMD no other data system
+FMD,Umatilla dace,206,Umatilla dace,SpecieID,only found in FMD no other data system
+FMD,Umpqua chub,152,Umpqua chub,SpecieID,only found in FMD no other data system
+FMD,Umpqua dace,153,Umpqua dace,SpecieID,only found in FMD no other data system
+FMD,Umpqua pikeminnow,198,Umpqua pikeminnow,SpecieID,only found in FMD no other data system
+FMD,Unidentified trout,112,Unidentified trout,SpecieID,only found in FMD no other data system
+FMD,Utah chub,184,Utah chub,SpecieID,only found in FMD no other data system
+FMD,Utah sucker,177,Utah sucker,SpecieID,only found in FMD no other data system
+FMD,Vancouver lamprey,117,Vancouver lamprey,SpecieID,only found in FMD no other data system
+FMD,Variable platyfish,242,Variable platyfish,SpecieID,only found in FMD no other data system
+FMD,Vegetation:  riparian,81,Vegetation:  riparian,SpecieID,only found in FMD no other data system
+FMD,Vegetation:  unspecified,83,Vegetation:  unspecified,SpecieID,only found in FMD no other data system
+FMD,Vegetation:  upland,82,Vegetation:  upland,SpecieID,only found in FMD no other data system
+FMD,Warmouth,101,Warmouth,SpecieID,only found in FMD no other data system
+FMD,Warner sucker,134,Warner sucker,SpecieID,only found in FMD no other data system
+FMD,Western mosquitofish,100,Western mosquitofish,SpecieID,only found in FMD no other data system
+FMD,Western river lamprey,114,Western river lamprey,SpecieID,only found in FMD no other data system
+FMD,Western silvery minnow,186,Western silvery minnow,SpecieID,only found in FMD no other data system
+FMD,Western toad,276,Western toad,SpecieID,only found in FMD no other data system
+FMD,Westslope cutthroat trout,21,Westslope cutthroat trout,SpecieID,only found in FMD no other data system
+FMD,White bass,224,White bass,SpecieID,only found in FMD no other data system
+FMD,White catfish,156,White catfish,SpecieID,only found in FMD no other data system
+FMD,White crappie,52,White crappie,SpecieID,only found in FMD no other data system
+FMD,White sucker,178,White sucker,SpecieID,only found in FMD no other data system
+FMD,Wildlife,97,Wildlife,SpecieID,only found in FMD no other data system
+FMD,Wood frog,281,Wood frog,SpecieID,only found in FMD no other data system
+FMD,Wood River Sculpin,173,Wood River Sculpin,SpecieID,only found in FMD no other data system
+FMD,Yellow bullhead,73,Yellow bullhead,SpecieID,only found in FMD no other data system
+FMD,Yellow perch,62,Yellow perch,SpecieID,only found in FMD no other data system
+FMD,Yellowstone cutthroat trout,22,Yellowstone cutthroat trout,SpecieID,only found in FMD no other data system

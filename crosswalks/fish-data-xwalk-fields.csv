@@ -1,0 +1,13 @@
+﻿sourceDataSystem,sourceDataField,sourceDataFieldDef,sourceDataType,notes
+CAP HLI,CommonName,Common name of the taxon of fish.,Text 50,none
+FMD,SpecieID,For a complete list of SpecieID codes contact the regional StreamNet personnel.,Integer,none
+PTAGIS,Species Codes,A 1-character code representing the species of the fish being sampled. Must be used with run and rear type codes to create the whole SRR code.,Character,none
+RMIS,species,Code indicating species of release group/recovered fish/catch group,Numeric,none
+CAP HLI,Run,Enter the name of the run here even if  run name is included in the name of the population. Entries in this field are not recognized as taxonomic divisions,Text 20,none
+FMD,RunID,Code for the fish run.,Byte,none
+PTAGIS,Run Codes,Single alpha-numeric code from the domain of valid run codes denoting the run of the fish.,Numeric,none
+RMIS,Run,Code to indicate run of this release group,Numeric,none
+CAP HLI,RearingType,The rearing type (origin; production type) of the fish represented by this record.,Text 8,none
+FMD,ProdID,Code for the production type of the fish.  For redd counts indicate the production type(s) of the fish that created the redds.,Byte,none
+PTAGIS,Rear Type Codes,Single alpha-numeric code from the domain of valid rear type codes denoting the rearing type of the fish.,Numeric,none
+RMIS,Rearing Type,Code indicating most prevalent rearing method for this release group,Character,none
