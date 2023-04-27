@@ -15,6 +15,8 @@ Documents and processes for collating and comparing fish data fields across Stre
   - RMIS: [Regional Mark Procesing Center](https://www.rmpc.org/data-selection/rmis-queries/)
   
 - /_example-comp_/ contains an example of collated fields and codes for the 4 data systems above for species, run, and rearing type data.
+	- _fish-data-comp-hatchery-codes.xlsx_ contains hatchery codes from all 4 data systems (this is incomplete; see notes column in the file)
+	- _fish-data-comp-hatchery-fields.xlsx_ contains hatchery fields from all 4 data systems
 	- _fish-data-comp-species-fields.xlsx_ contains species, run and rear fields from all 4 data systems
 	- _fish-data-comp-species-codes.xlsx_ contains species, run and rear codes from all 4 data systems
 

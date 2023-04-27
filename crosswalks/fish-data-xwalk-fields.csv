@@ -1,13 +1,22 @@
-﻿sourceDataSystem,sourceDataField,sourceDataFieldDef,sourceDataType,notes
-CAP HLI,CommonName,Common name of the taxon of fish.,Text 50,none
-FMD,SpecieID,Code for the fish species,Integer,none
-PTAGIS,Species Codes,A 1-character code representing the species of the fish being sampled. Must be used with run and rear type codes to create the whole SRR code.,Character,none
-RMIS,species,Code indicating species of release group/recovered fish/catch group,Numeric,none
-CAP HLI,Run,Enter the name of the run here even if  run name is included in the name of the population. Entries in this field are not recognized as taxonomic divisions,Text 20,none
-FMD,RunID,Code for the fish run.,Byte,none
-PTAGIS,Run Codes,Single alpha-numeric code from the domain of valid run codes denoting the run of the fish.,Numeric,none
-RMIS,Run,Code to indicate run of this release group,Numeric,none
-CAP HLI,RearingType,The rearing type (origin; production type) of the fish represented by this record.,Text 8,none
-FMD,ProdID,Code for the production type of the fish.  For redd counts indicate the production type(s) of the fish that created the redds.,Byte,none
-PTAGIS,Rear Type Codes,Single alpha-numeric code from the domain of valid rear type codes denoting the rearing type of the fish.,Numeric,none
-RMIS,Rearing Type,Code indicating most prevalent rearing method for this release group,Character,none
+﻿sourceDataSystem,dataField,sourceDataField,sourceDataFieldDef,sourceDataType,notes
+CAP HLI,Species,CommonName,Common name of the taxon of fish.,Text 50,none
+FMD,Species,SpecieID,Code for the fish species,Integer,none
+PTAGIS,Species,Species Codes,A 1-character code representing the species of the fish being sampled. Must be used with run and rear type codes to create the whole SRR code.,Character,none
+RMIS,Species,species,Code indicating species of release group/recovered fish/catch group,Numeric,none
+CAP HLI,Run,Run,Enter the name of the run here even if  run name is included in the name of the population. Entries in this field are not recognized as taxonomic divisions,Text 20,none
+FMD,Run,RunID,Code for the fish run.,Byte,none
+PTAGIS,Run,Run Codes,Single alpha-numeric code from the domain of valid run codes denoting the run of the fish.,Numeric,none
+RMIS,Run,Run,Code to indicate run of this release group,Numeric,none
+CAP HLI,Rear,RearingType,The rearing type (origin; production type) of the fish represented by this record.,Text 8,none
+FMD,Rear,ProdID,Code for the production type of the fish.  For redd counts indicate the production type(s) of the fish that created the redds.,Byte,none
+PTAGIS,Rear,Rear Type Codes,Single alpha-numeric code from the domain of valid rear type codes denoting the rearing type of the fish.,Numeric,none
+RMIS,Rear,Rearing Type,Code indicating most prevalent rearing method for this release group,Character,none
+CAP HLI,Hatchery,Hatchery,Name of the hatchery or hatchery complex associated with the time series.,Text 255,none
+FMD,Hatchery,Hatch_Name,The name of the hatchery.,Text 100,FMD also has a HatchID field for numeric codes
+PTAGIS,Hatchery,Hatchery,Hatchery where fish was reared.,Not provided,none
+RMIS,Hatchery,Hatchery Location Code,Hierarchical location code to geographically identify actual site of hatchery. All location codes are standardized within a given State or Province and coordinate by the State/Province. If present must match the location_code of location_type '3' in the PSC Location file.,Not provided,none
+CAP HLI,SpawnYear,SpawningYear,The four-digit year in which spawning of this species (and run where appropriate) began.,Integer,none
+FMD,SpawnYear,BeginSpawn,Earliest date fish were spawned. Mm/dd/yyyy,Datetime,not totally sure this is equivalent?
+FMD,SpawnYear,EndSpawn,Latest date fish were spawned. Mm/dd/yyyy,Datetime,not totally sure this is equivalent?
+PTAGIS,SpawnYear,BroodYear,"Calendar year when tagged fish was spawned, if known.",4-digit valid year between (Event Year - 3) and Event Year,none
+RMIS,SpawnYear,Brood Year,Calendar year (YYYY) when majority of parents of these fish spawned; if more than one brood present (i.e. wild tagging) then use dominant brood and report mixed stock tagging in Comments. Must be less than or equal to current year.,Year (yyyy),none
