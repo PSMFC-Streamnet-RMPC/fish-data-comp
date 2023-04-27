@@ -13,12 +13,12 @@ PTAGIS,Landlocked,none,none,Run Codes,Landlocked only appears in RMIS
 RMIS,Landlocked,6,Landlocked,Run,Landlocked only appears in RMIS
 CAP HLI,Natural,Natural,Natural,RearingType,none
 FMD,Natural,2,Natural,ProdID,none
-PTAGIS,Natural,W,Wild Fish or Natural Production,Rear Type Codes,none
-RMIS,Natural,W,Wild fish,Rearing Type,none
+PTAGIS,Natural,W,Wild Fish or Natural Production,Rear Type Codes,I assume Wild Fish or Natural can = Natural?
+RMIS,Natural,W,Wild fish,Rearing Type,I assume Wild fish can = Natural?
 CAP HLI,Mixed,Mixed,Mixed,RearingType,none
 FMD,Mixed,3,Mixed,ProdID,none
 PTAGIS,Mixed,none,none,Rear Type Codes,none
-RMIS,Mixed,M,Mixed hatchery & wild (downstream migrant or marine tagging),Rearing Type,none
+RMIS,Mixed,M,Mixed hatchery & wild (downstream migrant or marine tagging),Rearing Type,I assume this can = Mixed?
 CAP HLI,Unknown,Unknown,Unknown,RearingType,none
 FMD,Unknown,99,Unknown,ProdID,none
 PTAGIS,Unknown,U,Unknown,Rear Type Codes,none

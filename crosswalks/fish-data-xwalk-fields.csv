@@ -1,6 +1,6 @@
 ﻿sourceDataSystem,sourceDataField,sourceDataFieldDef,sourceDataType,notes
 CAP HLI,CommonName,Common name of the taxon of fish.,Text 50,none
-FMD,SpecieID,For a complete list of SpecieID codes contact the regional StreamNet personnel.,Integer,none
+FMD,SpecieID,Code for the fish species,Integer,none
 PTAGIS,Species Codes,A 1-character code representing the species of the fish being sampled. Must be used with run and rear type codes to create the whole SRR code.,Character,none
 RMIS,species,Code indicating species of release group/recovered fish/catch group,Numeric,none
 CAP HLI,Run,Enter the name of the run here even if  run name is included in the name of the population. Entries in this field are not recognized as taxonomic divisions,Text 20,none

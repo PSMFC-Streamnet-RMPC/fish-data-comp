@@ -1,101 +1,101 @@
 ﻿sourceDataSystem,code,sourceDataCode,sourceDataCodeDef,sourceDataField,notes
-CAP HLI,Bull Trout,Bull Trout,Bull Trout,CommonName,
-FMD,Bull Trout,14,Bull Trout,SpecieID,
-PTAGIS,Bull Trout,7,Bull Trout,Species Codes,
-RMIS,Bull Trout,None,None,species,
-CAP HLI,Chinook salmon,Chinook salmon,Chinook salmon,CommonName,
-FMD,Chinook salmon,1,Chinook salmon,SpecieID,
-PTAGIS,Chinook salmon,1,Chinook,Species Codes,
-RMIS,Chinook salmon,1,Chinook,species,
-CAP HLI,Chum salmon,Chum salmon,Chum salmon,CommonName,
-FMD,Chum salmon,5,Chum salmon,SpecieID,
-PTAGIS,Chum salmon,5,Chum,Species Codes,
-RMIS,Chum salmon,5,Chum,species,
-CAP HLI,Coho salmon,Coho salmon,Coho salmon,CommonName,
-FMD,Coho salmon,2,Coho salmon,SpecieID,
-PTAGIS,Coho salmon,2,Coho,Species Codes,
-RMIS,Coho salmon,2,Coho,species,
-CAP HLI,Sockeye salmon,Sockeye salmon,Sockeye salmon,CommonName,
-FMD,Sockeye salmon,4,Sockeye salmon,SpecieID,
-PTAGIS,Sockeye salmon,4,Sockeye salmon,Species Codes,
-RMIS,Sockeye salmon,4,Sockeye,species,
-CAP HLI,Steelhead,Steelhead,Steelhead,CommonName,
-FMD,Steelhead,3,Steelhead,SpecieID,
-PTAGIS,Steelhead,3,Steelhead,Species Codes,
-RMIS,Steelhead,3,Steelhead,species,
-CAP HLI,Unknown,None,None,CommonName,
-FMD,Unknown,99,Unknown,SpecieID,
-PTAGIS,Unknown,0,Unknown,Species Codes,
-RMIS,Unknown,None,None,species,
-CAP HLI,Pink salmon,None,None,CommonName,
-FMD,Pink salmon,6,Pink salmon,SpecieID,
-PTAGIS,Pink salmon,6,Pink,Species Codes,
-RMIS,Pink salmon,6,Pink,species,
-CAP HLI,Cutthroat trout,None,None,CommonName,
-FMD,Cutthroat trout,8,Cutthroat trout,SpecieID,
-PTAGIS,Cutthroat trout,8,Cutthroat trout,Species Codes,
-RMIS,Cutthroat trout,8,Cutthroat,species,
-CAP HLI,Masu,None,None,CommonName,
+CAP HLI,Bull Trout,Bull Trout,Bull Trout,CommonName,none
+FMD,Bull Trout,14,Bull Trout,SpecieID,none
+PTAGIS,Bull Trout,7,Bull Trout,Species Codes,none
+RMIS,Bull Trout,None,None,species,none
+CAP HLI,Chinook salmon,Chinook salmon,Chinook salmon,CommonName,none
+FMD,Chinook salmon,1,Chinook salmon,SpecieID,none
+PTAGIS,Chinook salmon,1,Chinook,Species Codes,none
+RMIS,Chinook salmon,1,Chinook,species,none
+CAP HLI,Chum salmon,Chum salmon,Chum salmon,CommonName,none
+FMD,Chum salmon,5,Chum salmon,SpecieID,none
+PTAGIS,Chum salmon,5,Chum,Species Codes,none
+RMIS,Chum salmon,5,Chum,species,none
+CAP HLI,Coho salmon,Coho salmon,Coho salmon,CommonName,none
+FMD,Coho salmon,2,Coho salmon,SpecieID,none
+PTAGIS,Coho salmon,2,Coho,Species Codes,none
+RMIS,Coho salmon,2,Coho,species,none
+CAP HLI,Sockeye salmon,Sockeye salmon,Sockeye salmon,CommonName,none
+FMD,Sockeye salmon,4,Sockeye salmon,SpecieID,none
+PTAGIS,Sockeye salmon,4,Sockeye salmon,Species Codes,none
+RMIS,Sockeye salmon,4,Sockeye,species,none
+CAP HLI,Steelhead,Steelhead,Steelhead,CommonName,none
+FMD,Steelhead,3,Steelhead,SpecieID,none
+PTAGIS,Steelhead,3,Steelhead,Species Codes,none
+RMIS,Steelhead,3,Steelhead,species,none
+CAP HLI,Unknown,None,None,CommonName,none
+FMD,Unknown,99,Unknown,SpecieID,none
+PTAGIS,Unknown,0,Unknown,Species Codes,none
+RMIS,Unknown,None,None,species,none
+CAP HLI,Pink salmon,None,None,CommonName,none
+FMD,Pink salmon,6,Pink salmon,SpecieID,none
+PTAGIS,Pink salmon,6,Pink,Species Codes,none
+RMIS,Pink salmon,6,Pink,species,none
+CAP HLI,Cutthroat trout,None,None,CommonName,none
+FMD,Cutthroat trout,8,Cutthroat trout,SpecieID,none
+PTAGIS,Cutthroat trout,8,Cutthroat trout,Species Codes,none
+RMIS,Cutthroat trout,8,Cutthroat,species,none
+CAP HLI,Masu,None,None,CommonName,none
 FMD,Masu,7,Masu (cherry) salmon,SpecieID,I assume Masu (cherry) salmon = Masu ?
-PTAGIS,Masu,None,None,Species Codes,
-RMIS,Masu,7,Masu,species,
-CAP HLI,Atlantic salmon,None,None,CommonName,
-FMD,Atlantic salmon,13,Atlantic salmon,SpecieID,
-PTAGIS,Atlantic salmon,None,None,Species Codes,
-RMIS,Atlantic salmon,9,Atlantic salmon,species,
-CAP HLI,Pacific Lamprey,None,None,CommonName,
-FMD,Pacific Lamprey,122,Pacific Lamprey,SpecieID,
-PTAGIS,Pacific Lamprey,A,Pacific Lamprey,Species Codes,
-RMIS,Pacific Lamprey,None,None,species,
-CAP HLI,White sturgeon,None,None,CommonName,
-FMD,White sturgeon,12,White sturgeon,SpecieID,
-PTAGIS,White sturgeon,B,White sturgeon,Species Codes,
-RMIS,White sturgeon,None,None,species,
-CAP HLI,Green sturgeon,None,None,CommonName,
-FMD,Green sturgeon,44,Green sturgeon,SpecieID,
-PTAGIS,Green sturgeon,C,Green sturgeon,Species Codes,
-RMIS,Green sturgeon,None,None,species,
-CAP HLI,Northern Pikeminnow,None,None,CommonName,
-FMD,Northern Pikeminnow,42,Northern Pikeminnow,SpecieID,
-PTAGIS,Northern Pikeminnow,D,Northern Pikeminnow,Species Codes,
-RMIS,Northern Pikeminnow,None,None,species,
-CAP HLI,Brook Trout,None,None,CommonName,
-FMD,Brook Trout,11,Brook Trout,SpecieID,
-PTAGIS,Brook Trout,E,Brook Trout,Species Codes,
-RMIS,Brook Trout,None,None,species,
-CAP HLI,American Shad,None,None,CommonName,
-FMD,American Shad,53,American Shad,SpecieID,
-PTAGIS,American Shad,F,American Shad,Species Codes,
-RMIS,American Shad,None,None,species,
-CAP HLI,Mountain Whitefish,None,None,CommonName,
-FMD,Mountain Whitefish,27,Mountain whitefish,SpecieID,
-PTAGIS,Mountain Whitefish,G,Mountain Whitefish,Species Codes,
-RMIS,Mountain Whitefish,None,None,species,
-CAP HLI,Walleye,None,None,CommonName,
-FMD,Walleye,25,Walleye,SpecieID,
-PTAGIS,Walleye,H,Walleye,Species Codes,
-RMIS,Walleye,None,None,species,
-CAP HLI,Channel Catfish,None,None,CommonName,
-FMD,Channel Catfish,49,Channel catfish,SpecieID,
-PTAGIS,Channel Catfish,I,Channel Catfish,Species Codes,
-RMIS,Channel Catfish,None,None,species,
-CAP HLI,Smallmouth Bass,None,None,CommonName,
-FMD,Smallmouth Bass,50,Smallmouth bass,SpecieID,
-PTAGIS,Smallmouth Bass,J,Smallmouth Bass,Species Codes,
-RMIS,Smallmouth Bass,None,None,species,
-CAP HLI,Western Brook Lamprey,None,None,CommonName,
-FMD,Western Brook Lamprey,120,Western brook lamprey,SpecieID,
-PTAGIS,Western Brook Lamprey,K,Western Brook Lamprey,Species Codes,
-RMIS,Western Brook Lamprey,None,None,species,
-CAP HLI,Lamprey (species unknown),None,None,CommonName,
+PTAGIS,Masu,None,None,Species Codes,none
+RMIS,Masu,7,Masu,species,none
+CAP HLI,Atlantic salmon,None,None,CommonName,none
+FMD,Atlantic salmon,13,Atlantic salmon,SpecieID,none
+PTAGIS,Atlantic salmon,None,None,Species Codes,none
+RMIS,Atlantic salmon,9,Atlantic salmon,species,none
+CAP HLI,Pacific Lamprey,None,None,CommonName,none
+FMD,Pacific Lamprey,122,Pacific Lamprey,SpecieID,none
+PTAGIS,Pacific Lamprey,A,Pacific Lamprey,Species Codes,none
+RMIS,Pacific Lamprey,None,None,species,none
+CAP HLI,White sturgeon,None,None,CommonName,none
+FMD,White sturgeon,12,White sturgeon,SpecieID,none
+PTAGIS,White sturgeon,B,White sturgeon,Species Codes,none
+RMIS,White sturgeon,None,None,species,none
+CAP HLI,Green sturgeon,None,None,CommonName,none
+FMD,Green sturgeon,44,Green sturgeon,SpecieID,none
+PTAGIS,Green sturgeon,C,Green sturgeon,Species Codes,none
+RMIS,Green sturgeon,None,None,species,none
+CAP HLI,Northern Pikeminnow,None,None,CommonName,none
+FMD,Northern Pikeminnow,42,Northern Pikeminnow,SpecieID,none
+PTAGIS,Northern Pikeminnow,D,Northern Pikeminnow,Species Codes,none
+RMIS,Northern Pikeminnow,None,None,species,none
+CAP HLI,Brook Trout,None,None,CommonName,none
+FMD,Brook Trout,11,Brook Trout,SpecieID,none
+PTAGIS,Brook Trout,E,Brook Trout,Species Codes,none
+RMIS,Brook Trout,None,None,species,none
+CAP HLI,American Shad,None,None,CommonName,none
+FMD,American Shad,53,American Shad,SpecieID,none
+PTAGIS,American Shad,F,American Shad,Species Codes,none
+RMIS,American Shad,None,None,species,none
+CAP HLI,Mountain Whitefish,None,None,CommonName,none
+FMD,Mountain Whitefish,27,Mountain whitefish,SpecieID,none
+PTAGIS,Mountain Whitefish,G,Mountain Whitefish,Species Codes,none
+RMIS,Mountain Whitefish,None,None,species,none
+CAP HLI,Walleye,None,None,CommonName,none
+FMD,Walleye,25,Walleye,SpecieID,none
+PTAGIS,Walleye,H,Walleye,Species Codes,none
+RMIS,Walleye,None,None,species,none
+CAP HLI,Channel Catfish,None,None,CommonName,none
+FMD,Channel Catfish,49,Channel catfish,SpecieID,none
+PTAGIS,Channel Catfish,I,Channel Catfish,Species Codes,none
+RMIS,Channel Catfish,None,None,species,none
+CAP HLI,Smallmouth Bass,None,None,CommonName,none
+FMD,Smallmouth Bass,50,Smallmouth bass,SpecieID,none
+PTAGIS,Smallmouth Bass,J,Smallmouth Bass,Species Codes,none
+RMIS,Smallmouth Bass,None,None,species,none
+CAP HLI,Western Brook Lamprey,None,None,CommonName,none
+FMD,Western Brook Lamprey,120,Western brook lamprey,SpecieID,none
+PTAGIS,Western Brook Lamprey,K,Western Brook Lamprey,Species Codes,none
+RMIS,Western Brook Lamprey,None,None,species,none
+CAP HLI,Lamprey (species unknown),None,None,CommonName,none
 FMD,Lamprey (species unknown),113,Lamprey (unspecified),SpecieID,I guess Lamprey (unspecified) = Lampey (species unknown)? But maybe not
-FMD,Lamprey (species unknown),15,Lamprey (CODE DISCONTINUED),SpecieID,
-PTAGIS,Lamprey (species unknown),L,Lamprey (species unknown),Species Codes,
-RMIS,Lamprey (species unknown),None,None,species,
-CAP HLI,Other,None,None,CommonName,
-FMD,Other,125,Other,SpecieID,
-PTAGIS,Other,9,Other,Species Codes,
-RMIS,Other,None,None,species,
+FMD,Lamprey (species unknown),15,Lamprey (CODE DISCONTINUED),SpecieID,probably important to retain this dicontinued code for older data where it was used
+PTAGIS,Lamprey (species unknown),L,Lamprey (species unknown),Species Codes,none
+RMIS,Lamprey (species unknown),None,None,species,none
+CAP HLI,Other,None,None,CommonName,none
+FMD,Other,125,Other,SpecieID,none
+PTAGIS,Other,9,Other,Species Codes,none
+RMIS,Other,None,None,species,none
 FMD,Alvord chub,142,Alvord chub,SpecieID,only found in FMD no other data system
 FMD,Amphibians,126,Amphibians,SpecieID,only found in FMD no other data system
 FMD,Amur goby,172,Amur goby,SpecieID,only found in FMD no other data system

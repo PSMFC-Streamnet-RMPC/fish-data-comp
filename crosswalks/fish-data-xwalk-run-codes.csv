@@ -10,7 +10,7 @@ RMIS,Summer,2,Summer,Run,none
 CAP HLI,Fall,Fall,Fall,Run,none
 FMD,Fall,3,Fall,RunID,none
 PTAGIS,Fall,3,Fall,Run Codes,none
-RMIS,Fall,3,Fall (includes type S Coho),Run,none
+RMIS,Fall,3,Fall (includes type S Coho),Run,I assume it is fine to match this to Fall
 CAP HLI,Winter,Winter,Winter,Run,none
 FMD,Winter,4,Winter,RunID,none
 PTAGIS,Winter,4,Winter,Run Codes,none
@@ -18,8 +18,8 @@ RMIS,Winter,4,Winter,Run,none
 CAP HLI,Late fall,Late fall,Late fall,Run,none
 FMD,Late fall,20,Late fall,RunID,none
 PTAGIS,Late fall,none,none,Run Codes,none
-RMIS,Late fall,7,Late Fall (includes N type Coho),Run,none
-RMIS,Late fall,8,Late Fall Upriver Bright Chinook,Run,none
+RMIS,Late fall,7,Late Fall (includes N type Coho),Run,Late Fall (includes N type Coho) = Late fall?
+RMIS,Late fall,8,Late Fall Upriver Bright Chinook,Run,Late Fall Upriver Bright Chinook = Late fall?
 CAP HLI,Spring/summer,Spring/summer,Spring/summer,Run,none
 FMD,Spring/summer,17,Spring/summer,RunID,none
 PTAGIS,Spring/summer,none,none,Run Codes,none
